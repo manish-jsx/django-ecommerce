@@ -196,4 +196,15 @@ This project is licensed under the [License Name] - see the [LICENSE](LICENSE) f
 
 Feel free to customize this README to suit the specific needs of your Django project. Provide clear and concise instructions to help users and potential contributors get started with the project.
 
+##
+### Important Links
 [Link to PostgreSQL in Django Guide](PostgreSQL%20in%20Django.md)
+
+[System Architecture](<System%20Architecture.md>)
+
+[How many app should a django ecommerce project have?](Apps.md)
+
+##
+### References
+
+[Awesome Django](https://github.com/shahraizali/awesome-django)

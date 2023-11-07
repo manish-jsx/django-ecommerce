@@ -1,0 +1,49 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django-specific files
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+
+# Static files
+staticfiles/
+node_modules/
+assets/
+
+# Environment-specific files
+.env
+venv/
+.envrc
+
+# Ignore your secret key file (keep it safe!)
+secret_key.txt
+
+# Ignore local settings file (use separate settings for production)
+local_settings.py
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Ignore any compiled or generated files
+*.class
+*.swp
+*.swo
+*.swn
+*.DS_Store
+*.bak
+
+# Ignore system and temporary files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.temp
+*.bak
